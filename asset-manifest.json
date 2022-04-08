@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ESEventPointCalculator/static/css/main.8ec2ca71.css",
-    "main.js": "/ESEventPointCalculator/static/js/main.f2d26cfb.js",
+    "main.js": "/ESEventPointCalculator/static/js/main.de7dd1e3.js",
     "index.html": "/ESEventPointCalculator/index.html",
     "main.8ec2ca71.css.map": "/ESEventPointCalculator/static/css/main.8ec2ca71.css.map",
-    "main.f2d26cfb.js.map": "/ESEventPointCalculator/static/js/main.f2d26cfb.js.map"
+    "main.de7dd1e3.js.map": "/ESEventPointCalculator/static/js/main.de7dd1e3.js.map"
   },
   "entrypoints": [
     "static/css/main.8ec2ca71.css",
-    "static/js/main.f2d26cfb.js"
+    "static/js/main.de7dd1e3.js"
   ]
 }
