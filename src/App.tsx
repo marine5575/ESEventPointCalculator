@@ -28,7 +28,7 @@ const App = () => {
     <div className="mx-10 my-5 text-center">
       <div className="space-y-4">
         <h1 className="text-2xl font-bold text-gray-900 md:text-4xl">
-          앙스타 일일 포인트 목표
+          앙스타 포인트 일일 목표
         </h1>
         <div>최종 포인트 목표를 입력해주세요</div>
         <form onSubmit={onSubmit} className="mx-3 md:mx-10">
